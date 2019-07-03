@@ -1,0 +1,14 @@
+# CCS
+Debug/
+.settings/
+.launches/
+targetConfigs/readme.txt
+
+# Doxygen
+docs
+
+.vscode/
+
+#emacs
+*~
+#*
