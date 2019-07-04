@@ -1,0 +1,16 @@
+#chart {
+  border: solid 1px black;
+  min-width: 600px;
+  min-height: 400px;
+
+  max-width: 600px;
+  max-height: 400px;
+}
+
+.estadoLed{
+  min-width: 50px;
+  width: 50px;
+  min-height: 50px;
+  height: 50px;
+  background-color: red;
+}
